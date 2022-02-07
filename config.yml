@@ -2,7 +2,7 @@ title: Asteroidlist Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://asteroidlist.com
+baseURL: https://status.asteroidlist.com
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
