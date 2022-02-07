@@ -40,6 +40,9 @@ params:
     - name: API
       category: name
       description: This is the status of our API
+    - name: Website
+      category: name
+      description: This is our website status
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
