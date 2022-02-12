@@ -43,7 +43,7 @@ params:
     - name: Website
       category: name
       description: This is our website status
-    - name: Discord Bots
+    - name: Discord-bots
       category: name
       description: This is the status of our Discord Bots.
   dateFormat: January 2, 2006 at 3:04 PM UTC
